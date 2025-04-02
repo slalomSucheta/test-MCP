@@ -1,0 +1,14 @@
+{
+  "server": {
+    "port": 3000,
+    "environment": "development"
+  },
+  "api": {
+    "version": "v1",
+    "timeout": 30000
+  },
+  "logging": {
+    "level": "info",
+    "file": "logs/app.log"
+  }
+}
